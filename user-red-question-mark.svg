@@ -1,0 +1,18 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- White background -->
+  <rect width="120" height="120" rx="10" fill="#FFFFFF"></rect>
+
+  <!-- User head -->
+  <circle cx="60" cy="45" r="18" fill="#BDBDBD"></circle>
+
+  <!-- User body -->
+  <path d="M30 90c0-15 15-25 30-25s30 10 30 25" fill="#BDBDBD"></path>
+
+  <!-- Red badge -->
+  <circle cx="88" cy="82" r="16" fill="#E53935"></circle>
+
+  <!-- Question mark -->
+  <text x="88" y="88" text-anchor="middle" font-size="20" font-weight="bold" fill="white" font-family="Arial">?</text>
+
+</svg>
