@@ -1,0 +1,1 @@
+# rasta-email-assets
